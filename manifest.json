@@ -1,0 +1,10 @@
+{
+  "name": "Change color",
+  "description": "You can Change colors to whatever you want!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+    }
+}
