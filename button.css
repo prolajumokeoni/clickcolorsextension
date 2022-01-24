@@ -1,0 +1,42 @@
+#container {
+  width: 380px;
+  text-align: center;
+}
+
+input {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+input {
+  height: 30px;
+  width: 48px;
+  outline: none;
+  margin: 10px;
+  border: none;
+  border-radius: 2px;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.green {
+  background-color: green;
+}
+
+.black {
+  background-color: black;
+}
